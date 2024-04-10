@@ -4,6 +4,11 @@
 
 This is a simple text editor implemented using HTML, CSS, and JavaScript. It allows users to perform various text formatting operations and includes basic features like undo, redo, text color, background color, bold, italic, underline, strike through, alignment, indentation, lists, headings, link insertion, image insertion, subscript, superscript, printing, and table insertion.
 
+## Built With
+- HTML5
+- CSS3
+- JavaScript
+
 ## Features
 - **Undo/Redo:** Allows users to undo or redo their actions.
 - **Clear Format:** Clears the formatting applied to the selected text.
@@ -18,9 +23,17 @@ This is a simple text editor implemented using HTML, CSS, and JavaScript. It all
 - **Printing:** Allows users to print the content.
 - **Table Insertion:** Enables users to insert tables.
 
-## Usage
+## Installation 
 1. Clone this repository.
+https://github.com/syed8509/Text-Editor
 2. Open `index.html` in a web browser.
+
+## Usage 
+High variations of textsyling
+![alt text](<Screenshot 2024-04-10 081514.png>)
+
+ Add Images 
+ ![alt text](<Screenshot 2024-04-10 081530.png>)>) 
 
 ## Dependencies
 - **Bootstrap:** CSS framework for styling.
@@ -33,5 +46,6 @@ This is a simple text editor implemented using HTML, CSS, and JavaScript. It all
 ## Credits
 This text editor is created by Syed Shahrukh Ali.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Contact
+- syedshahrukhali059@gmil.com
+- project link: https://github.com/syed8509/Text-Editor
