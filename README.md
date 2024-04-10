@@ -48,4 +48,4 @@ This text editor is created by Syed Shahrukh Ali.
 
 ## Contact
 - syedshahrukhali059@gmil.com
-- project link: https://github.com/syed8509/Text-Editor
+- project link: https://syed8509.github.io/Text-Editor/
